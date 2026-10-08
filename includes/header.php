@@ -21,7 +21,7 @@
             </div>
             <div class="social-links d-none d-md-flex align-items-center">
                 <!-- <a href="https://twitter.com/<?php echo  $contactData[0]['twitter']; ?>" class="twitter"><i class="bi bi-twitter-x"></i></a> -->
-                <a href="https://www.facebook.com/SimrikTech<?php echo  $contactData[0]['facebook']; ?>" class="facebook"><i class="bi bi-facebook"></i></a>
+                <a href="https://www.facebook.com/pragatinagar.khanepani.7<?php echo  $contactData[0]['facebook']; ?>" class="facebook"><i class="bi bi-facebook"></i></a>
                 <!-- <a href="https://instagram.com/<?php echo  $contactData[0]['instagram']; ?>" class="instagram"><i class="bi bi-instagram"></i></a> -->
                 <!-- <a href="https://linkedin.com/in/<?php echo  $contactData[0]['linkedin']; ?>" class="linkedin"><i class="bi bi-linkedin"></i></a> -->
             </div>
@@ -32,7 +32,7 @@
         <div class="container position-relative d-flex align-items-center justify-content-between">
             <a href="./" class="logo d-flex align-items-center">
                 <h1 class="sitename">
-                <img src="assets\img\simriklogo.png"><br></h1>
+                <img src="assets\img\khanepani.png"><br></h1>
             </a>
 
             <?php $current_page = basename($_SERVER['PHP_SELF']); ?>
@@ -41,9 +41,10 @@
                 <ul>
                     <li><a href="./" class="<?= ($current_page == 'index.php') ? 'active' : ''; ?>">Home</a></li>
                     <li><a href="about.php" class="<?= ($current_page == 'about.php') ? 'active' : ''; ?>">About Us</a></li>
-                     <li><a href="leadership.php" class="<?= ($current_page == 'leadership.php') ? 'active' : ''; ?>">Leadership</a></li>
-                    <li><a href="services.php" class="<?= ($current_page == 'services.php') ? 'active' : ''; ?>">Services</a></li>
-                    <li><a href="products.php" class="<?= ($current_page == 'products.php') ? 'active' : ''; ?>">Teams</a></li>
+                     <li><a href="board.php" class="<?= ($current_page == 'board.php') ? 'active' : ''; ?>">Board Members</a></li>
+                    <li><a href="staff.php" class="<?= ($current_page == 'staff.php') ? 'active' : ''; ?>">Staff</a></li>
+                    <li><a href="notice.php" class="<?= ($current_page == 'notice.php') ? 'active' : ''; ?>">Notices</a></li>
+                    <li><a href="gallery.php" class="<?= ($current_page == 'gallery.php') ? 'active' : ''; ?>">gallery</a></li>
                     <li><a href="contact.php" class="<?= ($current_page == 'contact.php') ? 'active' : ''; ?>">Contact</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
