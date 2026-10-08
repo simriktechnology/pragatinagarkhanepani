@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:https://simriktech.com.np/index.php/sitemap.xml

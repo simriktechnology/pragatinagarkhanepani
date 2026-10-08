@@ -1,0 +1,114 @@
+[24-Jul-2026 09:38:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:38:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:38:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:38:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:38:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:38:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:38:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:39:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 09:39:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 17:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[24-Jul-2026 17:22:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[29-Jul-2026 09:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[29-Jul-2026 09:50:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[29-Jul-2026 09:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69
+[29-Jul-2026 09:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/pragatin/simriktech.com.np/config.php:69
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/admin/includes/header.php(83): Database->eQuery('SELECT COUNT(*)...')
+#1 /home/pragatin/simriktech.com.np/admin/index.php(19): include('/home/pragatin/...')
+#2 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 69

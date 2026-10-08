@@ -1,0 +1,397 @@
+[10-Jul-2026 08:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 08:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 08:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 08:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 08:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 09:00:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 09:00:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 09:10:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 09:15:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 09:16:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 09:16:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 09:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 09:16:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 09:21:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/config.php:96
+Stack trace:
+#0 /home/pragatin/simriktech.com.np/index.php(4): Database->select('banners')
+#1 {main}
+  thrown in /home/pragatin/simriktech.com.np/config.php on line 96
+[10-Jul-2026 09:26:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/product-details.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pragatin/simriktech.com.np/product-details.php on line 11
+[10-Jul-2026 09:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/product-details.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pragatin/simriktech.com.np/product-details.php on line 11
+[10-Jul-2026 09:26:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/pragatin/simriktech.com.np/product-details.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pragatin/simriktech.com.np/product-details.php on line 11
+[17-Jul-2026 08:34:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/pragatin/simriktech.com.np/filefuns.php on line 2
+[17-Jul-2026 08:35:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/pragatin/simriktech.com.np/filefuns.php on line 2
+[19-Jul-2026 17:32:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/pragatin/simriktech.com.np/filefuns.php on line 2
+[25-Jul-2026 06:45:18 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:35:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:35:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:35:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:36:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:38:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:38:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:38:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:39:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:39:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:39:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:39:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:39:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:39:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:39:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:39:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:39:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:39:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:40:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:40:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:40:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:40:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:40:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:40:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:40:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:40:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:40:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:41:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:42:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:43:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:44:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:45:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:46:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[26-Jul-2026 04:47:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:06:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:07:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:07:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:07:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:07:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:07:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:07:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:07:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:07:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:07:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[30-Jul-2026 04:07:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/pragatin/simriktech.com.np/config.php on line 14
+[02-Aug-2026 01:29:57 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'pragatin_simriktechnp'@'localhost' (using password: YES) in /home/pragatin/simriktech.com.np/config.php on line 14
+[02-Aug-2026 01:30:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'pragatin_simriktechnp'@'localhost' (using password: YES) in /home/pragatin/simriktech.com.np/config.php on line 14
+[02-Aug-2026 01:30:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'pragatin_simriktechnp'@'localhost' (using password: YES) in /home/pragatin/simriktech.com.np/config.php on line 14
