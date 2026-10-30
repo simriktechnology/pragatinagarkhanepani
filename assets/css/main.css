@@ -794,20 +794,16 @@ section,
   overflow: hidden;
 }
 
-.hero .carousel-item:before {
+
+/*for body offline*/
+.hero .carousel-item::before {
   content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 20%);
+  background: rgba(0, 0, 0, 0.10);
   position: absolute;
   inset: 0;
   z-index: 2;
 }
 
-.hero .carousel-item::before {
-  content: "";
-  background-color: color-mix(in srgb, var(--background-color), transparent 20%);
-  position: absolute;
-  inset: 0;
-}
 
 .hero .carousel-container {
   position: absolute;
