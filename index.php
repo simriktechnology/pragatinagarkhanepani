@@ -14,6 +14,22 @@ $features = $query->select('features');
 $aboutData = $query->select('about');
 $serviceItems  = $query->select('about_ul_items');
 $services = $query->select('services');
+$notices = $query->select('products');
+
+usort($notices, function ($a, $b) {
+    return (int)$b['id'] <=> (int)$a['id'];
+});
+
+
+
+$productImages = $query->select('product_images');
+
+$imageMap = [];
+
+foreach ($productImages as $img) {
+    $imageMap[$img['product_id']][] = 'assets/img/product/' . $img['image_url'];
+}
+
 
 $aboutItems = [];
 foreach ($aboutData as $about) {
@@ -111,6 +127,76 @@ foreach ($serviceItems as $item) {
       </div>
 
     </section><!-- End of Hero Section -->
+
+
+   
+<section class="latest-notices">
+
+    <div class="notice-heading">
+        <h2>पछिल्ला सूचनाहरू / Latest Notices</h2>
+        <p>Stay updated with our latest announcements and important information</p>
+    </div>
+
+    <div class="notice-ticker">
+        <span class="ticker-label">♧ &nbsp; LATEST NOTICE:</span>
+
+        <div class="ticker-content">
+            <div class="ticker-text">
+                <?php foreach ($notices as $notice): ?>
+                    <span>
+                        <?= htmlspecialchars($notice['product_name'] ?? '') ?>
+                        &nbsp; • &nbsp;
+                    </span>
+                <?php endforeach; ?>
+            </div>
+        </div>
+    </div>
+
+    
+<div class="notice-grid">
+
+    <?php foreach (array_slice($notices, 0, 4) as $notice): ?>
+
+        <div class="notice-card">
+
+            <?php
+            $productId = $notice['id'];
+            $images = $imageMap[$productId] ?? [];
+            ?>
+
+            <?php if (!empty($images)): ?>
+                <img
+                    src="<?= htmlspecialchars($images[0]) ?>"
+                    alt="<?= htmlspecialchars($notice['product_name']) ?>"
+                    class="notice-product-image">
+            <?php endif; ?>
+
+            <h3>
+                <?= htmlspecialchars($notice['product_name'] ?? '') ?>
+            </h3>
+
+            <p>
+                <?= htmlspecialchars($notice['description'] ?? '') ?>
+            </p>
+
+        </div>
+
+    <?php endforeach; ?>
+
+</div>
+
+
+
+    <div class="all-notices">
+        <a href="products.php">
+            ♧ &nbsp; सबै सूचना हेर्नुहोस् / View All Notices
+        </a>
+    </div>
+
+</section>
+
+
+
 
     <!-- About Section -->
     <section id="about" class="section about">

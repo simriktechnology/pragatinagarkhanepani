@@ -2475,3 +2475,60 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
 }
+
+.latest-notices {
+    background: #f8f9fb !important;
+    padding: 35px 20px !important;
+}
+
+.notice-heading {
+    text-align: center !important;
+}
+
+.notice-ticker {
+    background: #1260a9 !important;
+    height: 44px !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.notice-grid {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 12px !important;
+}
+
+.notice-card {
+    background: white !important;
+    border: 1px solid #dce3eb !important;
+    border-radius: 5px !important;
+    padding: 13px !important;
+}
+
+
+.notice-product-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 12px;
+    display: block;
+}
+
+.notice-card {
+    background: #fff;
+    border: 1px solid #dce3eb;
+    border-radius: 6px;
+    padding: 13px;
+    overflow: hidden;
+}
+
+.notice-card h3 {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.notice-card p {
+    font-size: 12px;
+    line-height: 1.7;
+}
